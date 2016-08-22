@@ -1,0 +1,33 @@
+Question 1:
+
+(1/1 point)
+Which data type should you use to store values in your application to represent currency?
+
+decimal decimal
+
+
+Question 2:
+
+(1/1 point)
+Which operator is overloaded in C# to allow string concatenation?
+
+ 
++ 
+
+
+Question 3:
+
+(1/1 point)
+     11 static void Main(string[] args)
+    12 {
+    13     	int firstInt = 32767;
+    14		double firstDouble = 3276.7
+    15
+    16		double myDouble = firstInt;
+    17		int secondInt = (int) firstDouble;
+    18 }
+  
+What is wrong with the conversion on line 17?
+
+
+The conversion will result in a loss of data The conversion will result in a loss of data 
